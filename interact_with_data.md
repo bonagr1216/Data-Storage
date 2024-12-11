@@ -5,7 +5,6 @@
 
 1. **Update the `data_storage.py` file**:
 
-   ```python
    def add_item(item):
        data = load_data()
        data.append(item)
