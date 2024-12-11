@@ -1,7 +1,7 @@
 # Data-Storage
 # Simple Data Storage with Python
 
-**Author**: [Grace Bonarigo]
+**Author**: Grace Bonarigo
 
 ## Purpose:
 This tutorial will guide you through creating a simple Python program that demonstrates how to use file-based storage (JSON format) for persisting data. You'll learn how to manage data using Python's built-in libraries to store, retrieve, and modify the information.
