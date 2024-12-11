@@ -27,4 +27,3 @@
        except IndexError:
            print("Invalid index.")
 
-**Next Step:** [Step 4: Test and verify data storage](test_data_storage.md)
