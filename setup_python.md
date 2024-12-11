@@ -9,5 +9,4 @@
    mkdir simple-data-storage
    cd simple-data-storage
 
-   
-   
+[Step 2: Create the basic data storage program](data_storage_program.md)
