@@ -8,7 +8,6 @@
 
 2. **Write the Basic Code**:
 
-   ```python
    import json
    import os
 
