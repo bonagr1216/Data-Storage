@@ -7,7 +7,6 @@
 
 2. **Write the test code**:
 
-   ```python
    from data_storage import add_item, list_items, remove_item
 
    add_item("Item 1")
